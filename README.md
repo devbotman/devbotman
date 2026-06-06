@@ -38,6 +38,6 @@ Domain:  5G NR · Telecom · Network Engineering · Hardware/Software SDLC
 
 ### 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devonorourke-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/devonorourke/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devon--orourke--pat-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/devon-orourke-pat/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-devbotman.github.io-58a6ff?style=flat&logo=github)](https://devbotman.github.io)
 [![Email](https://img.shields.io/badge/Email-orourke.landry@gmail.com-D14836?style=flat&logo=gmail)](mailto:orourke.landry@gmail.com)
