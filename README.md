@@ -1,8 +1,8 @@
 ## Hey, I'm Devon O'Rourke 👋
 
-**Distinguished Technical Program Manager** · Boston, MA · Open to Staff+ TPM & Associate Director roles
+**Staff Technical Program Manager** · Boston, MA · Open to Staff+ TPM and Associate Director roles
 
-I spend my days delivering complex technical programs — 5G infrastructure, cloud platforms, hardware/software integrated systems. I spend my evenings building tools to make that work better.
+10 years of end-to-end program ownership across 5G infrastructure, cloud platforms, and hardware/software systems. I thrive in ambiguous early-stage environments, lead through influence across matrixed orgs, and rely heavily on AI to multiply my own capacity. I spend my evenings building tools that make the work sharper.
 
 ---
 
@@ -17,11 +17,12 @@ I spend my days delivering complex technical programs — 5G infrastructure, clo
 
 ### 📍 Background
 
-- 🏢 **Distinguished TPM @ Verizon** — 10 years
-- 📡 **5G NR delivery** — Gillette Stadium, Xfinity Center, $8.38M broadband program
-- ☁️ **Cloud infrastructure** — GCP + AWS platform programs, 40% deployment time reduction
-- ⚙️ **Process re-engineering** — 90,000 engineering hours recovered
-- 💰 **$200M** vertical product opportunity identified & piloted
+- 🏢 **Staff TPM @ Verizon** · 10 years
+- 📡 **E2E program ownership** · $8.38B 5G broadband program from concept to launch
+- 🤖 **AI-augmented workflows** · LLM orchestration, agentic pipelines, multi-platform data integration
+- ☁️ **Cloud infrastructure** · GCP + AWS platform programs, 40% deployment time reduction
+- ⚙️ **Process re-engineering** · 90,000 engineering hours recovered
+- 💰 **$200M** vertical product opportunity identified and piloted
 
 ---
 
